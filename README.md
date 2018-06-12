@@ -5,7 +5,7 @@
 	<td colspan="3"><h3>常用</h3></td>
 </tr>
 <tr>
-    <td>:tada:`:tada:` - 初次提交</td>
+    <td>:tada:`:tada:` - 初次提交 `:bowtie:` </td>
     <td>:bug:`:bug:` - 修复bug</td>
     <td>:fire:`:fire:` - 移除代码或文件</td>
 </tr>
