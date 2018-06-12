@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-	<td colspan="4">常用</td>
+	<td colspan="4" style="font-weight:bold;">常用</td>
 </tr>
 <tr>
     <td>:tada: - 初次提交</td>
@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-	<td colspan="4">操作系统相关</td>
+	<td colspan="4" style="font-weight:bold;">操作系统相关</td>
 </tr>
 <tr>
     <td>:apple: - 修复macOS下的问题</td>
@@ -46,7 +46,7 @@
 
 <table>
 <tr>
-	<td colspan="4">构建相关</td>
+	<td colspan="4" style="font-weight:bold;">构建相关</td>
 </tr>
 <tr>
 	<td>:rocket: - 部署功能</td>
