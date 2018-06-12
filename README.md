@@ -1,7 +1,20 @@
 # gitmoji-cheatsheet
 
-* :tada: - 初次提交
-* :art: - 改进结构和代码格式
+<table>
+<tr>
+	<td colspan="2">常用</td>
+</tr>
+<tr>
+    <td>* :tada: - 初次提交</td>
+    <td>* :art: - 改进结构和代码格式</td>
+</tr>
+<tr>
+    <td>Key 2</td>
+    <td>Value 2</td>
+</tr>
+</table>
+
+
 * :zap: - 优化性能
 * :fire: - 移除代码或文件
 * :bug: - 修复bug
