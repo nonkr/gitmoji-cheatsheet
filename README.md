@@ -1,9 +1,9 @@
 # gitmoji-cheatsheet
 
 ### 常用
-* tada:`:tada:` - 初次提交
-* bug:`:bug:` - 修复bug
-* fire:`:fire:` - 移除代码或文件
+* :tada:`:tada:` - 初次提交
+* :bug:`:bug:` - 修复bug
+* :fire:`:fire:` - 移除代码或文件
 * :art:`:art:` - 改进结构和代码格式
 * :rewind:`:rewind:` - 回滚修改
 * :twisted_rightwards_arrows:`:twisted_rightwards_arrows:` - 合并分支
