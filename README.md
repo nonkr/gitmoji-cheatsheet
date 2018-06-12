@@ -1,77 +1,39 @@
 # gitmoji-cheatsheet
 
-<table>
-<tr>
-	<td colspan="3"><h3>常用</h3></td>
-</tr>
-<tr>
-    <td>:tada:`:tada:` - 初次提交 ``:bowtie:`` </td>
-    <td>:bug:`:bug:` - 修复bug</td>
-    <td>:fire:`:fire:` - 移除代码或文件</td>
-</tr>
-<tr>
-	<td>:art:`:art:` - 改进结构和代码格式</td>
-	<td>:rewind:`:rewind:` - 回滚修改</td>
-    <td>:twisted_rightwards_arrows:`:twisted_rightwards_arrows:` - 合并分支</td>
-</tr>
-<tr>
-	<td>:zap:`:zap:` - 优化性能</td>
-    <td>:bookmark:`:bookmark:` - 发布或添加版本标签</td>
-	<td>:recycle:`:recycle:` - 代码重构</td>
-</tr>
-<tr>
-	<td>:white_check_mark:`:white_check_mark:` - 添加测试用例</td>
-    <td></td>
-    <td></td>
-</tr>
-</table>
+### 常用
+* tada:`:tada:` - 初次提交
+* bug:`:bug:` - 修复bug
+* fire:`:fire:` - 移除代码或文件
+* :art:`:art:` - 改进结构和代码格式
+* :rewind:`:rewind:` - 回滚修改
+* :twisted_rightwards_arrows:`:twisted_rightwards_arrows:` - 合并分支
+* :zap:`:zap:` - 优化性能
+* :bookmark:`:bookmark:` - 发布或添加版本标签
+* :recycle:`:recycle:` - 代码重构
+* :white_check_mark:`:white_check_mark:` - 添加测试用例
 
+### 操作系统相关
+* :apple:`:apple:` - 修复macOS下的问题
+* :penguin:`:penguin:` - 修复Linux下的问题
+* :checkered_flag:`:checkered_flag:` - 修复Windows下的问题
+* :robot:`:robot:` - 修复Android下的问题
+* :green_apple:`:green_apple:` - 修复iOS下的问题
 
-<table>
-<tr>
-	<td colspan="3"><h3>操作系统相关</h3></td>
-</tr>
-<tr>
-    <td>:apple:`:apple:` - 修复macOS下的问题</td>
-    <td>:penguin:`:penguin:` - 修复Linux下的问题</td>
-    <td>:checkered_flag:`:checkered_flag:` - 修复Windows下的问题</td>
-</tr>
-<tr>
-    <td>:robot:`:robot:` - 修复Android下的问题</td>
-	<td>:green_apple:`:green_apple:` - 修复iOS下的问题</td>
-	<td></td>
-</tr>
-</table>
+### 构建相关
+* :rocket:`:rocket:` - 部署功能
+* :green_heart:`:green_heart:` - 修复CI构建问题
+* :construction_worker:`:construction_worker:` - 添加CI构建系统
+* :whale:`:whale:` - 使用Docker
+* :heavy_plus_sign:`:heavy_plus_sign:` - 添加一个依赖
+* :heavy_minus_sign:`:heavy_minus_sign:` - 删除一个依赖
+* :arrow_down:`:arrow_down:` - 降级依赖库
+* :arrow_up:`:arrow_up:` - 升级依赖库
+* :pushpin:`:pushpin:` - 将依赖库固定到特定版本
+* :wrench:`:wrench:` - 修改配置文件
+* :package:`:package:` - 更新编译文件或包
+* :bento:`:bento:` - 添加或更新静态资源
 
-
-<table>
-<tr>
-	<td colspan="3"><h3>构建相关</h3></td>
-</tr>
-<tr>
-	<td>:rocket:`:rocket:` - 部署功能</td>
-	<td>:green_heart:`:green_heart:` - 修复CI构建问题</td>
-    <td>:construction_worker:`:construction_worker:` - 添加CI构建系统</td>
-</tr>
-<tr>
-    <td>:whale:`:whale:` - 使用Docker</td>
-    <td>:heavy_plus_sign:`:heavy_plus_sign:` - 添加一个依赖</td>
-	<td>:heavy_minus_sign:`:heavy_minus_sign:` - 删除一个依赖</td>
-</tr>
-<tr>
-	<td>:arrow_down:`:arrow_down:` - 降级依赖库</td>
-	<td>:arrow_up:`:arrow_up:` - 升级依赖库</td>
-    <td>:pushpin:`:pushpin:` - 将依赖库固定到特定版本</td>
-</tr>
-<tr>
-	<td>:wrench:`:wrench:` - 修改配置文件</td>
-    <td>:package:`:package:` - 更新编译文件或包</td>
-   	<td>:bento:`:bento:` - 添加或更新静态资源</td>
-</tr>
-</table>
-
-
-##### 其他
+### 其他
 * :construction:`:construction:` - 正在进行中
 * :ambulance:`:ambulance:` - 重要补丁
 * :sparkles:`:sparkles:` - 引入新特性
